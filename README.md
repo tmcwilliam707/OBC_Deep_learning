@@ -1,0 +1,1 @@
+Deep Learning Project for Optimized Battery Charging for Iphone, examining user's charging habits and creating an adaptive deep learning model to discover best times to trickle charge or taper off battery charging at 80%
